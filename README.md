@@ -1,5 +1,3 @@
-# EULA
-
 Butterjump
 Copyright &copy; 2020 Acid Lantern Games
 
