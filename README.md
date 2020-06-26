@@ -67,4 +67,4 @@ THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND WITHOUT WARRANTIES
 
 ## 5. CONSENT OF USE OF DATA
 
-You agree that Acid Lantern Games may collect and use information gathered in any manner as part of the product support services provided to you, if any, related to Butterjump. Acid Lantern Games may also use this information to provide notices to you which may be of use or interest to you.
+Please see our [Privacy Policy](https://acidlantern.github.io/privacy-policy/).
